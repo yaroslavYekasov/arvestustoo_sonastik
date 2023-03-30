@@ -1,0 +1,10 @@
+go
+dog
+cat
+bird
+ice
+road
+tree
+apple
+time
+computer
